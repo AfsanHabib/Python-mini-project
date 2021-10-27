@@ -1,0 +1,70 @@
+
+📘 List of Topics 📘
+
+############
+Basic
+##########
+- Variables
+- Conditions
+- Chained Conditionals
+- Operators
+- Control Flow (If/Else)
+- Loops and Iterables
+- Basic Data Structures
+- Functions
+- Mutable vs Immutable
+- Common Methods
+- File IO
+
+############
+Intermediate
+##########
+
+- Object Oriented Programming
+- Data Structures
+- Comprehensions 
+- Lambda Functions
+- Map, Filter
+- Collections
+- *args & **kwargs
+- Inheritance
+- Dunder Methods
+- PIP
+- Environments
+- Modules
+- Async IO
+
+############
+Advanced
+##########
+
+- Decorators
+- Generators 
+- Context Managers
+- Metaclasses
+- Concurrency 
+- Parallelism 
+- Testing
+- Packages
+- Cython
+
+#####################
+🔗 Resources 🔗
+###############
+Youtube:- https://youtu.be/p15xzjzR9j0
+
+The Complete Python Course: https://www.youtube.com/watch?v=sxTmJE4k0ho&t=7797s
+
+Machine Learning and AI Mega Course: https://www.youtube.com/watch?v=WFr2WgN9_xE
+
+Threading Tutorials: https://www.youtube.com/watch?v=olYdb0DdGtM&list=PLzMcBGfZo4-lTUl-4m1-9Jk27Eulyrmkx
+
+Python OOP: https://www.youtube.com/watch?v=JeznW_7DlB0&t=1595s
+
+Expert Python: https://www.youtube.com/watch?v=mclfteWlT2Q&list=PLzMcBGfZo4-kwmIcMDdXSuy_wSqtU-xDP
+
+Intermediate Python: https://www.youtube.com/watch?v=0VdzZQdaZ28&list=PLzMcBGfZo4-nhWva-6OVh1yKWHBs4o_tv
+
+Beginner Python: https://www.youtube.com/watch?v=OFrLs22MDAw&list=PLzMcBGfZo4-mFu00qxl0a67RhjjZj3jXm
+
+
